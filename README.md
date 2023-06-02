@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yungbeggie
 - 👀 I’m interested in Computers
-- 🌱 I’m currently learning Computer Science
+- 🌱 Soon to be Computer Science Bachelors
 
 <!---
 yungbeggie/yungbeggie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
